@@ -7,9 +7,13 @@ Find out more about my experience and aspirations over on my [GitHub CV](https:/
 ## More about me: 
 
 📈  **I’m currently learning...** React Native & Node  
+
 🍽  **At the moment I'm working on...** Getting stuck into a project with fellow Makers.
+
 👍  **I'm interested in...** making useful, developmental, and user-friendly products.  
+
 ❓  **Ask me about...** my journey into tech  
+
 🏰  **When I'm not coding...** you can find me outside walking or composing and recording music, see more on [Spotify](https://open.spotify.com/artist/3XDAQCkNnz2yN6PW8Sw8p7?si=O9TF8xFJRnOlh-LP5wTnxg#login).
 
 ## Find me here:
