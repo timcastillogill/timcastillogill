@@ -6,13 +6,13 @@ Find out more about my experience and aspirations over on my [GitHub CV](https:/
 
 ## More about me: 
 
-📈  **I’m currently learning...** React Native & Node  
+📈  **I’m currently learning...** React & Java
 
-🍽  **At the moment I'm working on...** Getting stuck into a project with fellow Makers.
+🍽  **At the moment I'm working on...** React Testing and mocking with React Testing Library & Jest
 
-👍  **I'm interested in...** making useful, developmental, and user-friendly products.  
+👍  **I'm interested in...** Tech for good - Edtech, Healthtech, Sustainable Energy.  
 
-❓  **Ask me about...** my journey into tech  
+❓  **Ask me about...** my journey from teaching into tech 
 
 🏰  **When I'm not coding...** you can find me outside walking or composing and recording music, see more on [Spotify](https://open.spotify.com/artist/3XDAQCkNnz2yN6PW8Sw8p7?si=O9TF8xFJRnOlh-LP5wTnxg#login).
 
