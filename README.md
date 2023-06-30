@@ -21,5 +21,3 @@ Find out more about my experience and aspirations over on my [GitHub CV](https:/
 [![Linkedin profile](https://img.shields.io/badge/Linkedin-Tim%20CastilloGill-0077B5?style=social&logo=linkedin&?labelColor=fff)](https://www.linkedin.com/in/tim-castillo-gill-30a27b42/) *to get in touch about work opportunities* 💼
   
 [![Spotify page](https://img.shields.io/badge/Spotify-Tim%20Gill%20Viola-green)](https://open.spotify.com/artist/3XDAQCkNnz2yN6PW8Sw8p7) 🎻
-
-[![Portfolio](https://img.shields.io/badge/Gatsby-Portfolio%20Site-orange)](https://timcastillogill.co.uk/) 💻
