@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm Tim, a full-stack developer with . I am seeking an opportunity to build products that make a difference in a variety of contexts as a junior developer.
+I'm Tim, a full-stack developer with experience in JavaScript, TypeScript, React, Ruby, JUnit, Jest and RSpec. I am seeking an opportunity to build products that give positive impact.
 
 Find out more about my experience on [LinkedIn](https://www.linkedin.com/in/tim-castillo-gill-30a27b42/) or scroll down to check-out some of my favourite projects. 🧑‍💻
 
