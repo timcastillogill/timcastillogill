@@ -1,8 +1,8 @@
 ### Hello! 👋
 
-I'm Tim, a [Maker](https://makers.tech/) and full-stack developer. I am seeking an opportunity to build products that make a difference in a variety of contexts as a junior developer.
+I'm Tim, a full-stack developer with . I am seeking an opportunity to build products that make a difference in a variety of contexts as a junior developer.
 
-Find out more about my experience and aspirations over on my [GitHub CV](https://github.com/timcastillogill/CV) or scroll down to check-out some of my favourite projects. 🧑‍💻
+Find out more about my experience on [LinkedIn](https://www.linkedin.com/in/tim-castillo-gill-30a27b42/) or scroll down to check-out some of my favourite projects. 🧑‍💻
 
 ## More about me: 
 
